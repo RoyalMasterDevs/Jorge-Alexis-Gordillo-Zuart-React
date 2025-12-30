@@ -1,0 +1,3 @@
+informacion desde un archivo txt
+
+hol

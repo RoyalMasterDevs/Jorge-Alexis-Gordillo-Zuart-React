@@ -1,0 +1,24 @@
+[
+
+    {
+    "id": 1,
+    "nombre": "Jorge",
+    "empresa": "React",
+    "trabajo": "Programador"
+    },
+
+    {
+    "id": 2,
+    "nombre": "Alex",
+    "empresa": "React",
+    "trabajo": "Psicologo"
+},
+
+{
+    "id": 3,
+    "nombre": "Jorge",
+    "empresa": "React",
+    "trabajo": "Programador"
+}
+
+]

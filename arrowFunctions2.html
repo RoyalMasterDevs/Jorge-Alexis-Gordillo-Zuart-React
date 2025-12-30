@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+    <h1 id="titulo" onmouseover="ponerTituloRojo()">
+    Bienvenido a Coderfy React 101
+    </h1>
+    <li><a href="./index.html">Regresar al indice</a></li>
+    <br>
+    <h2>Arrow function</h2>
+    <br>
+
+    <script>
+        //Parametros. Informacion que la funcion va a esperar.
+        //Convertir de arrow function a funcion normal.
+        //Cuando es un solo parametro podemos no usar parentesis al definirlo en la funcion.
+        const aprendiendo = (tecnologia) => console.log(`Aprendiendo ${tecnologia}`);
+
+        aprendiendo('Javascript');
+
+
+        const aprendiendo2 = (tecn1, tecn2) => console.log(`Aprendiendo ${tecn1} y ${tecn2}`);
+
+        aprendiendo2('JS', 'REACT');
+
+    </script>
+</body>
+</html>
